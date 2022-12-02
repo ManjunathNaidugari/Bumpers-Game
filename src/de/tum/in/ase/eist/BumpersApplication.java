@@ -1,4 +1,4 @@
-package de.tum.in.ase.eist;
+
 
 import de.tum.in.ase.eist.gameview.GameBoardUI;
 import de.tum.in.ase.eist.gameview.GameToolBar;

@@ -10,7 +10,7 @@ git clone https://github.com/ManjunathNaidugari/Bumpers-Game.git
 ```
 
 #### 2. Set up the Development Environment:
-- Ensure you have Java Development Kit (JDK) installed on your system.
+- Ensure you have Java Development Kit (JDK) and Gradle installed on your system.
 - Set up a Java IDE such as Eclipse, IntelliJ IDEA, or any other preferred IDE.
 - Import the cloned repository into your IDE as a Java project.
 
